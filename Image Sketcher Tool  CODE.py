@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
-
-
 # To install opencv
 get_ipython().system('pip install opencv-python')
 # To import modules
@@ -34,16 +31,3 @@ else:
  # Wait until a key is pressed, then close the displayed window
  cv2.waitKey(0)
  cv2.destroyAllWindows()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
